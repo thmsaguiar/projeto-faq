@@ -7,7 +7,7 @@
 }
 
 html{
-    background: linear-gradient(#af67e9, #6565e7);
+    background: linear-gradient(#94F0F9, #6565e7);
     min-height: 100%;
 }
 
@@ -26,7 +26,7 @@ main{
     width: 65%;
     height: 450px;
     box-shadow: 0px 25px 50px rgba( 0, 0, 0, 0.3);/* sombra */
-    background-color: #ffffff63;
+    background-color: #ffffff41;
     display: flex;    
     align-items: center;
     border-radius: 30px;
