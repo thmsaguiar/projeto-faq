@@ -84,6 +84,29 @@ main{
     padding-bottom: 15px;
 }
 
+.item .resposta a{
+    text-decoration: none;
+	color: #f47c57;
+    transition: 0.2s ease;
+}
+
+.item .resposta a:hover{    
+	font-weight: 700;
+    color: #5555f1;
+}
+
+.faq .items .item.ativo .pergunta{
+    font-weight: 700;
+}
+
+.faq .items .item.ativo .resposta{
+    display: block;
+}
+
+.faq .items .item.ativo{
+    background-image: url('../img/icone-seta-pra-cima.png');
+}
+
 @media(max-width: 1140px){
     .faq{
         flex-direction: column;
