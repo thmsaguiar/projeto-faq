@@ -42,6 +42,7 @@ main{
 .faq .conteudo{
     width: 40%;
     padding-bottom: 20px;
+    overflow:auto;
 }
 
 .faq .conteudo h1{
