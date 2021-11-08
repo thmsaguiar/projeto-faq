@@ -12,4 +12,6 @@ Este projeto foi desenvolvido na **MapaDevWeek** evento realizado pela [Dev em D
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## Criador
-[Thomas Aguiar Vicente](https://github.com/thmsaguiar)
+
+| [<img src="https://github.com/thmsaguiar.png?size=115" width=115><br><sub>@thmsaguiar</sub>](https://github.com/thmsaguiar) |
+| :---: |
